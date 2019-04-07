@@ -1,0 +1,4 @@
+mongodb/Application.class
+mongodb/PetsController.class
+mongodb/Pets.class
+mongodb/PetsRepository.class
